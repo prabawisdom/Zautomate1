@@ -1,0 +1,9 @@
+2016-04-28 20:08:13 INFO  Directory:94 - Reading from custom properties
+2016-04-28 20:08:13 INFO  Directory:234 - Setting Reports Dir---C:/workspace/Zautomate/ZA/Reports
+2016-04-28 20:08:13 INFO  Directory:235 - Setting Results Dir---C:/workspace/Zautomate/ZA/Reports\Results
+2016-04-28 20:08:16 INFO  TestNGClass:80 - before set driver Thread -----10------------driver------------ChromeDriver: chrome on XP (40d6ba89b4fd9dcdfcc3b769b9c0e319)
+2016-04-28 20:08:16 INFO  TestNGClass:84 - after set driver Thread -----10------------driver------------ChromeDriver: chrome on XP (40d6ba89b4fd9dcdfcc3b769b9c0e319)
+2016-04-28 20:09:47 INFO  TestNGClass:116 - Thread @ first close-----10------------driver------------ChromeDriver: chrome on XP (40d6ba89b4fd9dcdfcc3b769b9c0e319)
+2016-04-28 20:09:51 INFO  TestNGClass:80 - before set driver Thread -----10------------driver------------ChromeDriver: chrome on XP (95bfa593c546b02d51e6436fa4b1abdf)
+2016-04-28 20:09:51 INFO  TestNGClass:84 - after set driver Thread -----10------------driver------------ChromeDriver: chrome on XP (95bfa593c546b02d51e6436fa4b1abdf)
+2016-04-28 20:10:39 INFO  TestNGClass:95 - Thread @ first close-----10------------driver------------ChromeDriver: chrome on XP (95bfa593c546b02d51e6436fa4b1abdf)
